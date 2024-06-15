@@ -1,0 +1,13 @@
+div{
+    background-color: black;
+    color: white;
+    text-align: center ;
+    height: 100px;
+    width: 100px;
+    padding:20px;
+    margin:  0px;
+    border-color: rgb(216, 12, 124);
+    border-width: 2px;
+    border-style:solid;
+
+}
